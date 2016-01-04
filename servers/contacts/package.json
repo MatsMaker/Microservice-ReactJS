@@ -1,0 +1,23 @@
+{
+  "name": "MicroserviceReactJS",
+  "version": "1.0.0",
+  "keywords": [
+    "util",
+    "functional",
+    "server",
+    "client",
+    "browser"
+  ],
+  "author": "mats",
+  "contributors": [],
+  "dependencies": {
+    "express": "^4.13.3",
+    "mongoose": "^4.3.4",
+    "node.extend": "^1.1.5",
+    "socket.io": "^1.3.7"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "devDependencies": {}
+}
